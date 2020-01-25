@@ -8,7 +8,7 @@ In February of last year, the global United Methodist Church passed a sweeping l
  
 ### Sample Story: Slate did a map and chart that ranked the electoral power of each state based on population. It’s a very helpful and thorough take on how unbalanced an electoral system could be, and which regions unexpectedly have influence over political decision-making.
  
-[here](http://www.slate.com/articles/news_and_politics/map_of_the_week/2012/11/presidential_election_a_map_showing_the_vote_power_of_all_50_states.html)
+[here] (http://www.slate.com/articles/news_and_politics/map_of_the_week/2012/11/presidential_election_a_map_showing_the_vote_power_of_all_50_states.html)
  
 1. Execution = 5 
 It was a map that ranked and color-coded the electoral power of each state (including Washington, D.C.) based on population size. In a way, it did say so in the headline, which read, “How powerful is your vote? When it comes to voting, not all states are created equal.” 
@@ -28,7 +28,7 @@ The piece was more utilitarian than creative. The used lighter and darker shades
 ## Idea #2: A story about climate change in the Arctic Circle and its affect on the health and safety of sled dogs competing in the Iditarod, and/or a story about the ups and downs of funding for the Iditarod, given that 2020 is the first year it its history that it will be joining a larger international circuit of similar races in Russia and Norway.
 With over 1,000 miles of open, snow-covered land to travel across, international competitors of the Iditarod are considered to be the premier long-distance racers in the world. But climate change has altered the game for not only the competitors, but the 8 to 11 sled dogs they depend on. I’d like to do a story on the number of veteran versus rookie competitors, and the potential for a loss of interest or a deeper issue with race entrance that may be revealed from such data. Alternatively, I’d like to do a story on carbon emissions in the arctic and how it recently changed from a carbon sink to a carbon emitter due to the rapid melting of permafrost.
  
-### Sample Story: The Visual Capitalist did a map on the anatomy of land use in the United States. [Here.] (https://www.visualcapitalist.com/america-land-use/)
+### Sample Story: The Visual Capitalist did a map on the anatomy of land use in the United States. [Here.]  (https://www.visualcapitalist.com/america-land-use/)
 Clarity and accuracy = 5
 It was a dot map that visually captured how much land is used in certain ways across the united states. It was both in the headline and represented visually. This was indeed the most efficient way to navigate this kind of information, and the data seemed trustworthy and accurate. I give its accuracy a grade of 5 as well. I would recommend that the reporter verify these numbers using USDA data [here](https://www.ers.usda.gov/amber-waves/2017/december/a-primer-on-land-use-in-the-united-states/)
 

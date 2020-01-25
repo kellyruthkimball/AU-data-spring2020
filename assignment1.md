@@ -15,7 +15,7 @@ It was a map that ranked and color-coded the electoral power of each state (incl
 I will give the infographic a grade of 5 for its ease in navigating the information. I believe it was the most efficient way to navigate and present data. An even better way to do it is to make it a google map so that the colors and presentation are a little bit more visually appealing. Another idea to add more nuance to this chart is to compare individual voting power compared to other states. For example, if I moved to Wyoming, I would have the voting power of how many people in California?  
 I will give the accuracy of the data a 4, because they included Washington, D.C., which has no voting power but was ranked 3rd most powerful electoral influence on the map. They should have made it clear in the infographic that D.C.’s data is hypothetical. They showed clearly that this is a chart based off of 2010 Census data. To add more nuance to this data, I would look into National Voter Registration Act data to see how many people actually registered to vote, plus their political leanings. I would also look into the Pew Voting Frequency Survey, too, for the same reason.
 
-2. ccuracy = 5
+2. Accuracy = 5
 I believe the map is perfectly accurate.This link [here] (https://www.census.gov/2010census/data/apportionment-data-map.html) is an interactive map of the last decade of apportionments in the US. An even more accurate map would be one that looks at population shifts over time, and how they may have affected a state’s electoral power. They clearly provide a source, which is the 2010 census redistricting data. They do not explain that Washington, D.C. has no voting power, which I thought was a disappointing oversight.
 
 3. Quality = 3
@@ -32,11 +32,14 @@ With over 1,000 miles of open, snow-covered land to travel across, international
 Clarity and accuracy = 5
 It was a dot map that visually captured how much land is used in certain ways across the united states. It was both in the headline and represented visually. This was indeed the most efficient way to navigate this kind of information, and the data seemed trustworthy and accurate. I give its accuracy a grade of 5 as well. I would recommend that the reporter verify these numbers using USDA data [here](https://www.ers.usda.gov/amber-waves/2017/december/a-primer-on-land-use-in-the-united-states/)
 
-1. Quality = 5
+1. Execution = 5
+The piece was beautifully executed, easy on the eyes, and very informative. The only part that worries me is the fact that this was all from a sinlge souce, not multiple. I would feel better about the data if it wer verifed by government institutions, not just studies/thinktanks.
+
+2. Quality = 5
 This graphic accomplishes every task of presenting, comparing, organizing and correlating. They did well in showing how much land these dots of information would take up with they were condensed and organized across the country geographically. And, in the article itself, it broke down the data points into further detailed graphics. It was a well-done article and set of data reporting! 
 
-2. Type and Color = 5
+3. Type and Color = 5
 The type and color went beautifully with the publication brand colors and overall mood. Everything looked like it belonged together, leading the eye to the most important bits of information. The colors were complementary to each other and even matched how the colored hyperlinks and text color in the piece. Very well done! 
 
-3. Creativity = 5
+4. Creativity = 5
 The map switched between showing where the type of land use was physically located on the map, and then condensed it to show what it would all look like it these categories were all together. It was a creative way for a reader to quickly visualize and understand how each data point if realistically distributed across the US. 

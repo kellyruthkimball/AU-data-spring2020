@@ -16,7 +16,7 @@ For all three CSVs, I:
 Analyzed where contributions were made to by searching under the column “committee_name.”
 Did light data “cleaning” by manually deleting rows that had employers labeled anything other than the New York Times
 
-## Nut graf: Of the 566 employees of the New York Times, 100% donated to campaigns or organizations affiliated with the Democtatic party. For a newspaper that reports intimately across the country and world, is this okay? 
+## Nut graf: Of the 566 employees of the New York Times with recorded campaign contributions, 100% donated to campaigns or organizations affiliated with the Democtatic party. For a newspaper that reports intimately across the country and world, is this okay? 
 
 
 

@@ -15,7 +15,7 @@ I’d like to capture the unique tension that Iditarod loyalists are in by produ
 ### Data sets:
 [Permafrost Temperature in Artitic Over Time](https://nsidc.org/data/G10015/versions/1) 
  
-[Arctic Sea Ice Over Time](ftp://sidads.colorado.edu/DATASETS/NOAA/G02135/seaice_analysis) 
+[Arctic Sea Ice Over Time](sidads.colorado.edu/DATASETS/NOAA/G02135/seaice_analysis) 
  
 ### People to speak with: 
 Dr. Brian Brettschneider

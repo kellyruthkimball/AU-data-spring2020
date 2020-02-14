@@ -8,7 +8,7 @@ In February of last year, the global United Methodist Church passed a sweeping l
  
 ### Sample Story: Slate did a map and chart that ranked the electoral power of each state based on population. It’s a very helpful and thorough take on how unbalanced an electoral system could be, and which regions unexpectedly have influence over political decision-making.
  
-[here] (http://www.slate.com/articles/news_and_politics/map_of_the_week/2012/11/presidential_election_a_map_showing_the_vote_power_of_all_50_states.html)
+[here](http://www.slate.com/articles/news_and_politics/map_of_the_week/2012/11/presidential_election_a_map_showing_the_vote_power_of_all_50_states.html)
  
 1. Execution = 5 
 It was a map that ranked and color-coded the electoral power of each state (including Washington, D.C.) based on population size. In a way, it did say so in the headline, which read, “How powerful is your vote? When it comes to voting, not all states are created equal.” 
@@ -16,7 +16,7 @@ I will give the infographic a grade of 5 for its ease in navigating the informat
 I will give the accuracy of the data a 4, because they included Washington, D.C., which has no voting power but was ranked 3rd most powerful electoral influence on the map. They should have made it clear in the infographic that D.C.’s data is hypothetical. They showed clearly that this is a chart based off of 2010 Census data. To add more nuance to this data, I would look into National Voter Registration Act data to see how many people actually registered to vote, plus their political leanings. I would also look into the Pew Voting Frequency Survey, too, for the same reason.
 
 2. Accuracy = 5
-I believe the map is perfectly accurate.This link [here] (https://www.census.gov/2010census/data/apportionment-data-map.html) is an interactive map of the last decade of apportionments in the US. An even more accurate map would be one that looks at population shifts over time, and how they may have affected a state’s electoral power. They clearly provide a source, which is the 2010 census redistricting data. They do not explain that Washington, D.C. has no voting power, which I thought was a disappointing oversight.
+I believe the map is perfectly accurate.This link [here](https://www.census.gov/2010census/data/apportionment-data-map.html) is an interactive map of the last decade of apportionments in the US. An even more accurate map would be one that looks at population shifts over time, and how they may have affected a state’s electoral power. They clearly provide a source, which is the 2010 census redistricting data. They do not explain that Washington, D.C. has no voting power, which I thought was a disappointing oversight.
 
 3. Quality = 3
 The colors and design are a bit basic, but they still get the job done. An upside to this is that the design was simple, minimalist and to the point. The graphic did accomplish its task, no more and no less. More nuance would have been appreciated, but its simplicity is also its power.
